@@ -77,8 +77,6 @@ Online-Feedback-System
 
 ### Feedback Form
 
-![Online Feedback System Preview](screenshots/preview.png)
+![Online Feedback System Preview](https://raw.githubusercontent.com/hemalathas838/Online-Feedback-System/main/screenshots/preview.png)
 
-### Admin Dashboard
-
-![Online Feedback System Dashboard](screenshots/dashboard.png)
+![Online Feedback System Dashboard](https://raw.githubusercontent.com/hemalathas838/Online-Feedback-System/main/screenshots/dashboard.png)

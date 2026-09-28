@@ -10,41 +10,41 @@ The Online Feedback System allows users to submit feedback through a simple web 
 
 ### User
 
-- Submit name
-- Submit email
-- Give a rating from 1 to 5 stars
-- Enter feedback message
-- Receive submission confirmation
+* Submit name
+* Submit email
+* Give a rating from 1 to 5 stars
+* Enter feedback message
+* Receive submission confirmation
 
 ### Admin
 
-- Admin login
-- View total feedback
-- View average rating
-- View number of 5-star reviews
-- Search feedback
-- View complete feedback details
-- Delete feedback
-- View submission date
+* Admin login
+* View total feedback
+* View average rating
+* View number of 5-star reviews
+* Search feedback
+* View complete feedback details
+* Delete feedback
+* View submission date
 
 ## Technologies Used
 
 ### Frontend
 
-- React.js
-- Vite
-- Tailwind CSS
-- Axios
-- React Router
+* React.js
+* Vite
+* Tailwind CSS
+* Axios
+* React Router
 
 ### Backend
 
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- CORS
-- dotenv
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* CORS
+* dotenv
 
 ## Project Structure
 
@@ -72,15 +72,14 @@ Online-Feedback-System
 │   └── package-lock.json
 │
 └── README.md
-
-
+```
 
 ## Project Screenshots
 
 ### Feedback Form
 
-<img src="./screenshots/preview.png" alt="Online Feedback System Preview" width="800"/>
+<img src="./screenshots/preview.png" alt="Online Feedback System Preview" width="800">
 
 ### Admin Dashboard
 
-<img src="./screenshots/dashboard.png" alt="Online Feedback System Dashboard" width="800"/>
+<img src="./screenshots/dashboard.png" alt="Online Feedback System Dashboard" width="800">
